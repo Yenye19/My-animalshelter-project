@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+}
+li{
+  list-style: none;
+}
+#praise{
+background-color: navy;
+display: flex;
+}
+.mine{
+  margin-top: 18px;
+  margin-left: 55px;
+  color: white;
+}
+#Lord{
+  background-color: gray;
+  display: flex;
+}
+.for{
+  margin-left: 20px;
+}
+.faith{
+  font-size: x-large;
+  margin-top: 15px;
+  color: darkcyan;
+  padding-left: 20px;
+}
