@@ -26,3 +26,8 @@ display: flex;
   color: darkcyan;
   padding-left: 20px;
 }
+#love{
+  width: 100%;
+  background-color: cadetblue;
+  display: flex;
+}
