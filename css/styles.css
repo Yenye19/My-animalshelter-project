@@ -31,3 +31,10 @@ display: flex;
   background-color: cadetblue;
   display: flex;
 }
+.life{
+  display: flex;
+}
+.hope{
+  width: 100%;
+  background-color: blue;
+}
