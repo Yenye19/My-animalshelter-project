@@ -33,13 +33,26 @@ display: flex;
 }
 .life{
   display: flex;
+  margin-top: 10px;
 }
 .hope{
-  width: 100%;
-  background-color: blue;
+  margin-left: 50px;
+  color: whitesmoke;
 }
 .coding{
   height: 400px;
   width: 500px;
 }
-
+.fa-sharp{
+  margin-top: 13px;
+  margin-left: 13px;
+}
+.acedu{
+  display: flex;
+  background-color: blue;
+}
+.hand{
+  background-color: red;
+  color: white;
+  border: none;
+}
