@@ -40,8 +40,8 @@ display: flex;
   color: whitesmoke;
 }
 .coding{
-  height: 400px;
-  width: 500px;
+  height: 250px;
+  width: 300px;
 }
 .fa-sharp{
   margin-top: 13px;
@@ -55,4 +55,14 @@ display: flex;
   background-color: red;
   color: white;
   border: none;
+}
+.red{
+font-family: cursive;
+}
+.html{
+  color: red;
+}
+.fa-solid{
+  margin-top: 30px;
+  margin-left: 30px;
 }
