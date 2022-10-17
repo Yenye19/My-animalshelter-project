@@ -5,7 +5,7 @@ li{
   list-style: none;
 }
 #praise{
-background-color: navy;
+background-color: #091f2f;
 display: flex;
 }
 .mine{
@@ -49,7 +49,7 @@ display: flex;
 }
 .acedu{
   display: flex;
-  background-color: blue;
+  background-color: #091f2f;
 }
 .hand{
   background-color: red;
@@ -58,6 +58,11 @@ display: flex;
 }
 .red{
 font-family: cursive;
+color: cadetblue;
+padding-left: 20px;
+}
+.white{
+  padding-left: 20px;
 }
 .html{
   color: red;
@@ -65,4 +70,15 @@ font-family: cursive;
 .fa-solid{
   margin-top: 30px;
   margin-left: 30px;
+}
+#happy{
+  height: 250px;
+}
+#calm{
+  height: 250px;
+  width: 400px;
+  background-color: #091f2f;
+}
+.fa-brands{
+  padding-left: 20px;
 }
